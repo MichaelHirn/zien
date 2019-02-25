@@ -1,5 +1,5 @@
 # Zien
-Bridging artist & audience
+Discover and fund exceptional artists
 
 Powered by [blankchain][blankchain]
 
