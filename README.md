@@ -1,7 +1,5 @@
 # Zien
-Discover and fund exceptional artists
-
-Powered by [blankchain][blankchain]
+Connect with contemporary artists
 
 ## Developing
 
