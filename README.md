@@ -2,8 +2,9 @@
 Connect with contemporary artists
 
 ## Installation 
-`npm install`
-`npm run start`
+`npm install` - to install all dependencies 
+
+`npm run start` - to start local server
 
 ## Tech used
 - React JS
