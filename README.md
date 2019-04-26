@@ -1,6 +1,14 @@
 # Zien
 Connect with contemporary artists
 
+## Installation 
+`npm install`
+`npm run start`
+
+## Tech used
+- React JS
+- StyledComponents
+
 ## Developing
 
 We welcome [contributions][contrib], be they [issues][issues], [pull requests][pullrequest] or in another form that follow our [code of conduct][codeofconduct].
