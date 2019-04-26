@@ -1,6 +1,15 @@
 # Zien
 Connect with contemporary artists
 
+## Installation 
+`npm install` - to install all dependencies 
+
+`npm run start` - to start local server
+
+## Tech used
+- React JS
+- StyledComponents
+
 ## Developing
 
 We welcome [contributions][contrib], be they [issues][issues], [pull requests][pullrequest] or in another form that follow our [code of conduct][codeofconduct].
